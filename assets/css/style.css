@@ -9,4 +9,17 @@
 body {
     font-family: 'Bitter', serif;
     font-weight: 300;
+    color: #36454f;
+}
+
+/* Headings and logo */
+
+h1, h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #36454f;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
