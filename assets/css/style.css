@@ -63,3 +63,25 @@ h1, h2 {
     width: 100%;
     background: url(../images/tvz-hero2.png) no-repeat center center;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+
+}
+
+.external-links {
+    text-align: center;
+}
+
+.external-links > li {
+    display: inline;
+}
+
+.external-links i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #36454f;
+}
