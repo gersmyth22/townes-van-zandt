@@ -48,3 +48,17 @@ h1, h2 {
 #menu a:hover {
     color: gold;
 }
+
+/* Hero image */
+
+#hero-outer {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 400px;
+    width: 100%;
+    background: url(../images/tvz-hero2.png) no-repeat center center;
+}
