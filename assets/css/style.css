@@ -151,7 +151,46 @@ footer {
 
   /* Form */
 
+  .form-section {
+    clear: left;
+    background: url("../images/form-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+  }
   
+  .signup-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+    
+  }
+  
+  .signup-form > h3 {
+    color: #fafafa;
+    margin-bottom: 20px;
+    
+  }
+
+  .join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: gold;
+    color: #36454f;
+    display: block;
+  }
+  
+  .join-button:hover {
+    background-color: #36454f;
+    color: gold;
+  }
   /* For medium screen sizes from 950px wide and down */
 
   @media screen and (max-width: 950px) {
