@@ -149,6 +149,9 @@ footer {
     height: 100%;
   }
 
+  /* Form */
+
+  
   /* For medium screen sizes from 950px wide and down */
 
   @media screen and (max-width: 950px) {
