@@ -215,3 +215,11 @@ footer {
         column-count: 2;
     }
   }
+
+  /* For mobile screens 450px and down  */
+
+  @media screen and (max-width: 450px) {
+    #menu {
+        font-size: 110%;
+    }
+  }
