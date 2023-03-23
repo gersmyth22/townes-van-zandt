@@ -48,3 +48,20 @@ The Townes Van Zandt website is for anyone looking to find out more about musici
     - This page will allow the user to sign up to a newsletter. The user will be asked to submit their full name and email address.
 
 ![Subscribe Page](assets/images/subscribe.png)
+
+Features Left to Implement
+
+- I was planning to have a discography section beneath the biography section but had to leave it out due to time constraints and difficulty finding suitable images
+
+## Testing
+
+### Validator Testing
+
+- HTML
+
+    - No errors were returned when passing through the official W3C validator
+
+- CSS
+
+    - No errors were found when passing through the official (Jigsaw) validator
+
